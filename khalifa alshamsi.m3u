@@ -116,8 +116,8 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/music_now/05.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN", SkyCinemaUno.itCINEMA 1
 http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
-#EXTINF:0 tvg-id="ext" group-title="OSN", jyal
-http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN", Ajyal
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="OSN", StarMovies.inStar Movies
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN", StarWorld.inStar World
@@ -146,8 +146,8 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/02.m3u8
 http://213.202.241.218:1557/live:ajf2k_1/7mY0hxn2Zg/6528
 #EXTINF:0 tvg-id="ext" group-title="OSN", BOX MOVIES 2
 http://213.202.241.218:1557/live:ajf2k_1/7mY0hxn2Zg/6529
-#EXTINF:0 tvg-id="ext" group-title="OSN", ART MOVIES 1
-http://213.202.241.218:1557/live:ajf2k_1/7mY0hxn2Zg/6533
+#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="OSN",ART Movies
+https://p-mysat-live.ercdn.net/artmovies/artmovies.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="OSN", ART COMEDYA
 http://213.202.241.218:1557/live:ajf2k_1/7mY0hxn2Zg/6537
 #EXTINF:0 tvg-id="ext" group-title="OSN", ART MOVIES 2
@@ -166,6 +166,10 @@ http://213.202.241.218:1557/live:ajf2k_1/7mY0hxn2Zg/9692
 http://213.202.241.218:1557/live:ajf2k_1/7mY0hxn2Zg/9700
 #EXTINF:0 tvg-id="ext" group-title="OSN", BEIN MOVEIS 1
 http://213.202.241.218:1557/live:ajf2k_1/7mY0hxn2Zg/9701
+#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="OSN",ART Cinema (HD)
+https://p-mysat-live.ercdn.net/artcinema/artcinema.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="OSN",ART Cinema (SD)
+http://217.182.173.184:8000/live/swen123/swen123/28.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN", ART 2
 http://213.202.241.218:1557/live:ajf2k_1/7mY0hxn2Zg/6522
 #EXTINF:0 tvg-id="ext" group-title="OSN", #EXTINF:0 ART 1
@@ -1010,6 +1014,18 @@ http://live.lachainenormande.fr/live/lcn/livestream/chunklist_w600527248.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",FR:GONG TV LOCAL
 http://ec.playmedia.fr/gong-base/live/chunklist_w33486847.m3u8
 
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="MBC ",MBC IRAQ (SD)
+http://66.northerniptv.ca:8000/live/george/george123/69065.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="MBC ",MBC IRAQ (HD)
+http://66.northerniptv.ca:8000/tommy2/123456/69065?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="MBC ",MBCDrama (SD)
+http://66.northerniptv.ca:8000/live/george/george123/5509.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="MBC ",MBCDrama (HD)
+http://66.northerniptv.ca:8000/tommy2/123456/5509?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="MBC ",MBCAction (SD)
+http://66.northerniptv.ca:8000/live/george/george123/5510.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="MBC ",MBCAction (HD)
+http://66.northerniptv.ca:8000/tommy2/123456/5510?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="MBC ",AR:MY-MBC 1 HD
 http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="MBC ",AR:MY-MBC 1 sd
@@ -1018,8 +1034,10 @@ http://livecdnh2.tvanywhere.ae/ss/mbc1.isml/Manifest?v=
 http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 2 sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png"group-title="MBC ",AR:MY-MBC2 sd
 http://livecdnh3.tvanywhere.ae/ss/mbc2.isml/Manifest?v=
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 3 SD" tvg-logo="https://img2.arabpng.com/20180430/axq/kisspng-middle-east-broadcasting-center-mbc-3-television-c-5ae6dde2eb54d0.6998628015250795229639.jpg" group-title="MBC ",AR:MY-MBC 3 HD
-http://livecdnh2.tvanywhere.ae/ss/mbc3.isml/Manifest?v=
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 3 HD" tvg-logo="https://img2.arabpng.com/20180430/axq/kisspng-middle-east-broadcasting-center-mbc-3-television-c-5ae6dde2eb54d0.6998628015250795229639.jpg" group-title="MBC ",AR:MY-MBC 3 HD
+http://66.northerniptv.ca:8000/live/george/george123/5512.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="MBC ",MBC3 (SD)
+http://66.northerniptv.ca:8000/tommy2/123456/5512?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 4 HD" tvg-logo="https://i.pinimg.com/originals/64/ff/fc/64fffc6e501e4f2fbf4fce31b190c0f5.png" group-title="MBC ",AR:MY-MBC 4 HD
 http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 4 HD" tvg-logo="https://i.pinimg.com/originals/64/ff/fc/64fffc6e501e4f2fbf4fce31b190c0f5.png" 
@@ -2432,51 +2450,18 @@ http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-ZEE ALWAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIxCms7GmbX-yzXAP6gH72PitMJ8wr9n9bhTR-Lgg8NIqTWXSe" group-title="MBC ",AR:MY-ZEE ALWAN
 http://95.170.215.109/hls/m3u8/ZEE-Alwan-Backup.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-MBC IRAQ" tvg-logo="http://www.alhayat.com/uploads/images/2019/01/27/53959.jpg" group-title="MBC ",AR:IRQ-MBC IRAQ
 http://95.170.215.109/hls/m3u8/MBC-IRAQ-Backup.m3u8
-
-
-
- 
-
-#EXTINF:0,MBc sd
+#EXTINF:0 tvg-country="ARB" tvg-logo="" group-title="MBC ",MBc sd
 http://livecdnh2.tvanywhere.ae/ss/mbc_msr.isml/Manifest?v=
- 
-#EXTINF:0,MBc MSR
- 
+#EXTINF:0 tvg-country="ARB" tvg-logo="" group-title="MBC ",MBc MSR
 http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
- 
-#EXTINF:0,MBC2-sd
-
- 
-
-#EXTINF:0,MBC4-sd
-
- 
-
-#EXTINF:0,MBC DRAMA-sd
-
- 
-
-#EXTINF:0,MBC DRAMAsd
+#EXTINF:0 tvg-country="ARB" tvg-logo="" group-title="MBC ",MBC DRAMA sd
 http://livecdnh2.tvanywhere.ae/ss/mbc_drama.isml/Manifest?v=
- 
- 
-#EXTINF:0,MBC_MAX-sd
-
- 
-
-
-
- 
- 
-#EXTINF:0,mbc_bolly
+#EXTINF:0 tvg-country="ARB" tvg-logo="" group-title="MBC ",mbc_bollywood
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
- 
-#EXTINF:0,wanasah
+#EXTINF:0 tvg-country="ARB" tvg-logo="" group-title="MBC ",wanasah
 http://livecdnh2.tvanywhere.ae/hls/wanasah/03.m3u8
-
 
 #EXTINF:0 tvg-id="ext" group-title="spania",sp:3/24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
@@ -2489,6 +2474,10 @@ http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-b.m3u8?sd=8
 #EXTINF:0 tvg-id="ext" group-title="spania",sp:MurciaInformacion TV
 http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/chunklist_w1891320334.m3u8
 
+#EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="OSN",Cartoon Network Arabic
+https://shls-cartoon-net-prod.shahid.net/cartoon-network-prod.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="OSN",Sky-MoviesComedy
+http://91.239.232.114:1935/live/source/chunklist_w1712669127.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="OSN",#EXTINF:0 action moveis
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN",#EXTINF:0 AR:PAL-Al Salam
@@ -4749,6 +4738,12 @@ http://82.212.74.99:8000/live/hls/8166.m3u8
 https://svs.itworkscdn.net/assiratvlive/assirat/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-IMAM REDA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Imam_reza-224009.jpg/1200px-Imam_reza-224009.jpg" group-title="IRAQ HD",AR:IRQ-IMAM REDA TV
 http://185.23.131.61/hls/rozeh_2.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="EMIRATES HD",National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="EMIRATES HD",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="OSN",OSN ALFA MUSALSLAT
+http://fariszah.myq-see.com:8008/live/demo/demo/21591.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-DUBAI OLA HD" tvg-logo="http://www.dubaitv.ae/content/dam/dubaitv/icons/dubai-tv.jpg" group-title="EMIRATES HD",AR:DUB-DUBAI OLA HD
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:DUB-DUBAI ONE HD" tvg-logo="https://www.arabianbusiness.com/sites/default/files/styles/310px_220px_wide_landscape/public/images/2014/07/17/Dubai-One-TV.jpg" group-title="EMIRATES HD",AR:DUB-DUBAI ONE HD
@@ -8099,3 +8094,12 @@ http://217.182.173.184:8000/live/swen123/swen123/15.m3u8
 http://217.182.173.184:8000/live/swen123/swen123/14.m3u8
 #EXTINF:0,AR: BEIN SPORT 5
 http://217.182.173.184:8000/live/swen123/swen123/13.m3u8
+
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/bYMtfRn.png" group-title="Thai",MCOT 30
+http://183.182.100.184/live/mcothd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/CQYsYBM.png" group-title="Thai",ONE HD
+http://one31-0ougnj.cdn.byteark.com/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Thai",Thai TV 7
+https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="MBC",UAE : MBC PERSIA
+http://randomserver.site:2086/live/Bria/Bria/99014.m3u8?checkedby:iptvcat.com
