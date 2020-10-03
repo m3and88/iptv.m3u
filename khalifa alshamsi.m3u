@@ -4443,23 +4443,23 @@ http://mysisli.com/36bay2/gin/giniko_sudantv_900kb_36bay2/tracks-v1a1/mono.m3u8
 http://s24.live.net.sa:1935/live/s24/chunklist_w1728174287.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1-HD" tvg-logo="" group-title="MBC",MBC 1-HD AR
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1 HD" tvg-logo="" group-title="MBC",MBC 1-HD AR
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC 2-HD" tvg-logo="" group-title="MBC",MBC 2-HD AR
+#EXTINF:-1 tvg-id="" tvg-name="MBC 2 HD" tvg-logo="" group-title="MBC",MBC 2-HD AR
 http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC 3-HD" tvg-logo="" group-title="MBC",MBC 3-HD AR
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3 HD" tvg-logo="" group-title="MBC",MBC 3-HD AR
 http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC 4-HD" tvg-logo="" group-title="MBC",MBC 4-HD AR
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4 HD" tvg-logo="" group-title="MBC",MBC 4-HD AR
 http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBC Drama" tvg-logo="" group-title="MBC",MBC Drama AR
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBC Masr" tvg-logo="https://vid.alarabiya.net/images/2017/02/15/7e953741-1865-4462-b837-ddc84f811d74/7e953741-1865-4462-b837-ddc84f811d74_16x9_1200x676.jpg?format=jpeg&width=960" group-title="MBC",MBC Masr
 http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC Max-HD" tvg-logo="" group-title="MBC",MBC Max-HD AR
+#EXTINF:-1 tvg-id="" tvg-name="MBC Max HD" tvg-logo="" group-title="MBC",MBC Max-HD AR
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC Action-HD" tvg-logo="" group-title="MBC",MBC Action-HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Action HD" tvg-logo="" group-title="MBC",MBC Action-HD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC BOLLYWOOD HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCBollywoodTV.png" group-title="MBC",MBC BOLLYWOOD HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCBollywoodTV.png" group-title="MBC",MBC BOLLYWOOD HD
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBC Variety" tvg-logo="" group-title="MBC",MBC Variety
 http://95.170.215.118/hls/MBC-P-VARity-FF.m3u8
