@@ -4489,29 +4489,33 @@ http://mysisli.com/36bay2/gin/giniko_sudantv_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Sudania-24-HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCiWEVXaKhqOu6x565k1Y1Ob8lW9NrN0VivEw=s900-mo-c-c0xffffffff-rj-k-no" group-title="SUDAN HD",AR:Sudania-24-HD
 http://s24.live.net.sa:1935/live/s24/chunklist_w1728174287.m3u8
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1 HD" tvg-logo="" group-title="MBC",MBC 1 HD
+___MBC_PLAYLIST___
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1266297196971876352/R3SMeLR1_400x400.jpg" group-title="MBC",MBC 1 HD
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC 2 HD" tvg-logo="" group-title="MBC",MBC 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC 2 HD" tvg-logo="https://img2.arabpng.com/20180530/fkk/kisspng-mbc2-logo-film-cuevana-5b0ead068a6da1.513271341527688454567.jpg" group-title="MBC",MBC 2 HD
 http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC 3 HD" tvg-logo="" group-title="MBC",MBC 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg" group-title="MBC",MBC 3 HD
 http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC 4 HD" tvg-logo="" group-title="MBC",MBC 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4 HD" tvg-logo="https://img.favpng.com/17/15/15/television-show-news-mbc-4-logo-product-design-png-favpng-dBUBNe8RaAhuNgCPV2dTvnXA0.jpg" group-title="MBC",MBC 4 HD
 http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC Drama" tvg-logo="" group-title="MBC",MBC Drama
+#EXTINF:-1 tvg-id="" tvg-name="MBC Drama" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" group-title="MBC",MBC Drama
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBC Masr" tvg-logo="https://vid.alarabiya.net/images/2017/02/15/7e953741-1865-4462-b837-ddc84f811d74/7e953741-1865-4462-b837-ddc84f811d74_16x9_1200x676.jpg?format=jpeg&width=960" group-title="MBC",MBC Masr
 http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC Max HD" tvg-logo="" group-title="MBC",MBC Max HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Max HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="MBC",MBC Max HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC Action HD" tvg-logo="" group-title="MBC",MBC Action HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Action HD" tvg-logo="https://www.mbc.net/dam/jcr:839226ac-f330-40bf-83a4-81e3fc397d5e/action-og_.jpg" group-title="MBC",MBC Action HD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCBollywoodTV.png" group-title="MBC",MBC BOLLYWOOD HD
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC Variety" tvg-logo="" group-title="MBC",MBC Variety
+#EXTINF:-1 tvg-id="" tvg-name="MBC Variety" tvg-logo="https://1.bp.blogspot.com/-l5e5pvKpfQU/XqhX3lOQi2I/AAAAAAAABoA/r9XqsZfCJH40kwacEVN5vfyIymjgg6G6QCNcBGAsYHQ/s1600/mbc-variety-plus-ae.png" group-title="MBC",MBC Variety
 http://95.170.215.118/hls/MBC-P-VARity-FF.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE AFLAM" tvg-logo="https://image.winudf.com/v2/image/Y29tLnplZWUuYWZsYW0ubW9zYWxzYWxhdHNfaWNvbl8xNTE4ODY4NTg1XzAyOQ/icon.png?w=170&fakeurl=1&type=.png" group-title="MBC",ZEE AFLAM
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/04.m3u8
+#EXTINF:0 tvg-country="" tvg-logo="https://campaignme.com/wp-content/uploads/2020/04/Zee-Alwan_Final-Logo-s-600x354.jpg" group-title="MBC",ZEE ALWAN
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w199117921.m3u8?checkedby:hlscat.com
+
 
 #EXTINF:0 tvg-id="avi" group-title="قنوات المصرية",▁▂▃▅▆▇★☀二【« قنوات المصرية»】二☀★▇▆▅▃▂▁
 https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
