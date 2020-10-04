@@ -92,6 +92,53 @@ http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" group-title="",Télam 4
 http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
 
+#PLAYLIST:SHAHID VIP
+#EXTINF:0 tvg-country="M88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shahid.net_New_Logo.png/593px-Shahid.net_New_Logo.png" group-title="SHAHID VIP",Shahid Action 1
+http://178.63.48.23:25461/live/Shahidnetotto/dBxa84FxPq/175.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="M88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shahid.net_New_Logo.png/593px-Shahid.net_New_Logo.png" group-title="SHAHID VIP",Shahid Action 2
+http://178.63.48.23:25461/live/Shahidnetotto/dBxa84FxPq/176.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="M88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shahid.net_New_Logo.png/593px-Shahid.net_New_Logo.png" group-title="SHAHID VIP",Shahid Adventure 1
+http://178.63.48.23:25461/live/Shahidnetotto/dBxa84FxPq/181.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="M88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shahid.net_New_Logo.png/593px-Shahid.net_New_Logo.png" group-title="SHAHID VIP",Shahid Adventure 2
+http://178.63.48.23:25461/live/Shahidnetotto/dBxa84FxPq/182.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="M88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shahid.net_New_Logo.png/593px-Shahid.net_New_Logo.png" group-title="SHAHID VIP",Shahid Arabia 1
+http://178.63.48.23:25461/live/Shahidnetotto/dBxa84FxPq/184.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="M88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shahid.net_New_Logo.png/593px-Shahid.net_New_Logo.png" group-title="SHAHID VIP",Shahid Bollywood 1
+http://178.63.48.23:25461/live/Shahidnetotto/dBxa84FxPq/195.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="M88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shahid.net_New_Logo.png/593px-Shahid.net_New_Logo.png" group-title="SHAHID VIP",Shahid Bollywood 2
+http://178.63.48.23:25461/live/Shahidnetotto/dBxa84FxPq/183.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="M88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shahid.net_New_Logo.png/593px-Shahid.net_New_Logo.png" group-title="SHAHID VIP",Shahid Comedy 1
+http://178.63.48.23:25461/live/Shahidnetotto/dBxa84FxPq/179.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="M88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shahid.net_New_Logo.png/593px-Shahid.net_New_Logo.png" group-title="SHAHID VIP",Shahid Comedy 2
+http://178.63.48.23:25461/live/Shahidnetotto/dBxa84FxPq/180.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="M88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shahid.net_New_Logo.png/593px-Shahid.net_New_Logo.png" group-title="SHAHID VIP",Shahid Crime 1
+http://178.63.48.23:25461/live/Shahidnetotto/dBxa84FxPq/185.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="M88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shahid.net_New_Logo.png/593px-Shahid.net_New_Logo.png" group-title="SHAHID VIP",Shahid Crime 2
+http://178.63.48.23:25461/live/Shahidnetotto/dBxa84FxPq/186.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="M88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shahid.net_New_Logo.png/593px-Shahid.net_New_Logo.png" group-title="SHAHID VIP",Shahid Documentary 1
+http://178.63.48.23:25461/live/Shahidnetotto/dBxa84FxPq/188.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="M88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shahid.net_New_Logo.png/593px-Shahid.net_New_Logo.png" group-title="SHAHID VIP",Shahid Documentary 2
+http://178.63.48.23:25461/live/Shahidnetotto/dBxa84FxPq/197.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="M88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shahid.net_New_Logo.png/593px-Shahid.net_New_Logo.png" group-title="SHAHID VIP",Shahid Drama 1
+http://178.63.48.23:25461/live/Shahidnetotto/dBxa84FxPq/177.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="M88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shahid.net_New_Logo.png/593px-Shahid.net_New_Logo.png" group-title="SHAHID VIP",Shahid Drama 2
+http://178.63.48.23:25461/live/Shahidnetotto/dBxa84FxPq/178.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="M88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shahid.net_New_Logo.png/593px-Shahid.net_New_Logo.png" group-title="SHAHID VIP",Shahid Family 1
+http://178.63.48.23:25461/live/Shahidnetotto/dBxa84FxPq/196.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="M88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shahid.net_New_Logo.png/593px-Shahid.net_New_Logo.png" group-title="SHAHID VIP",Shahid Horror 1
+http://178.63.48.23:25461/live/Shahidnetotto/dBxa84FxPq/190.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="M88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shahid.net_New_Logo.png/593px-Shahid.net_New_Logo.png" group-title="SHAHID VIP",Shahid Horror 2
+http://178.63.48.23:25461/live/Shahidnetotto/dBxa84FxPq/191.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="M88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shahid.net_New_Logo.png/593px-Shahid.net_New_Logo.png" group-title="SHAHID VIP",Shahid Kids 1
+http://178.63.48.23:25461/live/Shahidnetotto/dBxa84FxPq/194.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="M88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shahid.net_New_Logo.png/593px-Shahid.net_New_Logo.png" group-title="SHAHID VIP",Shahid Sci-Fi 1
+http://178.63.48.23:25461/live/Shahidnetotto/dBxa84FxPq/189.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="M88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shahid.net_New_Logo.png/593px-Shahid.net_New_Logo.png" group-title="SHAHID VIP",Shahid Thriller 1
+http://178.63.48.23:25461/live/Shahidnetotto/dBxa84FxPq/192.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="M88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shahid.net_New_Logo.png/593px-Shahid.net_New_Logo.png" group-title="SHAHID VIP",Shahid Thriller 2
+http://178.63.48.23:25461/live/Shahidnetotto/dBxa84FxPq/193.m3u8?checkedby:hlscat.com
+
+
 __--_all world_--__
 
 #EXTINF:0 tvg-id="ext" group-title="OSN", action movies
