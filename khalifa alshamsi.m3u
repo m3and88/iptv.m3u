@@ -226,6 +226,7 @@ http://wowzacontrol.com:1935/8010/8010/playlist.m3u8
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
 
 --KHALIFA--{OSN}--ALSHAMSI--
+
 #EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/The_logo_of_bein_series_1_tv_channel.png" group-title="OSN & BEIN"beIN Series 1
 https://vt.vttpi.com:8443/33483749121768/187028127683748/153
 #EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Series_HD2.png" group-title="OSN & BEIN"beIN Series 2
@@ -2783,8 +2784,6 @@ http://mysisli.com/36bay2/gin/giniko_sudantv_900kb_36bay2/tracks-v1a1/mono.m3u8
 http://s24.live.net.sa:1935/live/s24/chunklist_w1728174287.m3u8
 
 ___MBC_PLAYLIST___
-#EXTINF:0 group-logo="https://upload.wikimedia.org/wikipedia/ar/archive/4/42/20180719185243%21Mbc_Group.jpg" group-title="MBC"
-___________________
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC Drama" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" group-title="MBC",MBC Drama
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
