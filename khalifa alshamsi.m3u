@@ -225,83 +225,83 @@ http://wowzacontrol.com:1935/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:SYR-العربي HD" tvg-logo="http://aya.sy/images/services/iptv/syria_education.png" group-title="SYRIE HD",AR:SYR-العربي HD
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
 
---KHALIFA--{OSN}--ALSHAMSI--
+--OSN--
 
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/The_logo_of_bein_series_1_tv_channel.png" group-title="OSN & BEIN"beIN Series 1
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/The_logo_of_bein_series_1_tv_channel.png" group-title="OSN & BEIN",beIN Series 1
 https://vt.vttpi.com:8443/33483749121768/187028127683748/153
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Series_HD2.png" group-title="OSN & BEIN"beIN Series 2
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Series_HD2.png" group-title="OSN & BEIN",beIN Series 2
 https://vt.vttpi.com:8443/33483749121768/187028127683748/154
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://cne-eg.com/uploads/logos/20183175521422.png" group-title="OSN & BEIN"beIN Gourmet
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://cne-eg.com/uploads/logos/20183175521422.png" group-title="OSN & BEIN",beIN Gourmet
 https://vt.vttpi.com:8443/33483749121768/187028127683748/156
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Fatafeat_Logo_Final.jpg" group-title="OSN & BEIN"beIN Fatafeat
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Fatafeat_Logo_Final.jpg" group-title="OSN & BEIN",beIN Fatafeat
 https://vt.vttpi.com:8443/33483749121768/187028127683748/157
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1322_1.png" group-title="OSN & BEIN"beIN Movies Premiere
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1322_1.png" group-title="OSN & BEIN",beIN Movies Premiere
 https://vt.vttpi.com:8443/33483749121768/187028127683748/158
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1323_1.png" group-title="OSN & BEIN"beIN Movies Actions
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1323_1.png" group-title="OSN & BEIN",beIN Movies Actions
 https://vt.vttpi.com:8443/33483749121768/187028127683748/159
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1324_1.png" group-title="OSN & BEIN"beIN Movies Drama
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1324_1.png" group-title="OSN & BEIN",beIN Movies Drama
 https://vt.vttpi.com:8443/33483749121768/187028127683748/160
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1325_1.png" group-title="OSN & BEIN"beIN Movies Family
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1325_1.png" group-title="OSN & BEIN",beIN Movies Family
 https://vt.vttpi.com:8443/33483749121768/187028127683748/161
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1162_1.png" group-title="OSN & BEIN"OSN Al Yawm
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1162_1.png" group-title="OSN & BEIN",OSN Al Yawm
 https://vt.vttpi.com:8443/33483749121768/187028127683748/113
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1285_1.png" group-title="OSN & BEIN"OSN Yahala
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1285_1.png" group-title="OSN & BEIN",OSN Yahala
 https://vt.vttpi.com:8443/33483749121768/187028127683748/114
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1250_1.png" group-title="OSN & BEIN"OSN Yahala Oula
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1250_1.png" group-title="OSN & BEIN",OSN Yahala Oula
 https://vt.vttpi.com:8443/33483749121768/187028127683748/115
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1285_1.png" group-title="OSN & BEIN"OSN Yahala Cinema
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1285_1.png" group-title="OSN & BEIN",OSN Yahala Cinema
 https://vt.vttpi.com:8443/33483749121768/187028127683748/116
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://content.osn.com/bob/745x419/SER.jpg" group-title="OSN & BEIN"OSN Musalsalat
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://content.osn.com/bob/745x419/SER.jpg" group-title="OSN & BEIN",OSN Musalsalat
 https://vt.vttpi.com:8443/33483749121768/187028127683748/117
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1257_1.png" group-title="OSN & BEIN"OSN Comedy
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1257_1.png" group-title="OSN & BEIN",OSN Comedy
 https://vt.vttpi.com:8443/33483749121768/187028127683748/118
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1257_1.png" group-title="OSN & BEIN"OSN Comedy Central
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1257_1.png" group-title="OSN & BEIN",OSN Comedy Central
 https://vt.vttpi.com:8443/33483749121768/187028127683748/119
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1211_1.png" group-title="OSN & BEIN" OSN Action
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1211_1.png" group-title="OSN & BEIN" ,OSN Action
 https://vt.vttpi.com:8443/33483749121768/187028127683748/120
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://content.osn.com/logo/channel/cropped/CM1.png" group-title="OSN & BEIN"OSN Cinema 1
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://content.osn.com/logo/channel/cropped/CM1.png" group-title="OSN & BEIN",OSN Cinema 1
 https://vt.vttpi.com:8443/33483749121768/187028127683748/122
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://content.osn.com/logo/channel/cropped/CM2.png" group-title="OSN & BEIN"OSN Cinema 2
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://content.osn.com/logo/channel/cropped/CM2.png" group-title="OSN & BEIN",OSN Cinema 2
 https://vt.vttpi.com:8443/33483749121768/187028127683748/123
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://content.osn.com/bob/745x419/af1745x419_20200129110129.jpg" group-title="OSN & BEIN"OSN ART Aflam 1
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://content.osn.com/bob/745x419/af1745x419_20200129110129.jpg" group-title="OSN & BEIN",OSN ART Aflam 1
 https://vt.vttpi.com:8443/33483749121768/187028127683748/124
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1121_1.png" group-title="OSN & BEIN"OSN ART Aflam 2
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1121_1.png" group-title="OSN & BEIN",OSN ART Aflam 2
 https://vt.vttpi.com:8443/33483749121768/187028127683748/125
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://content.osn.com/bob/745x419/ACM.jpg" group-title="OSN & BEIN"Osn Art Cinema
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://content.osn.com/bob/745x419/ACM.jpg" group-title="OSN & BEIN",Osn Art Cinema
 https://vt.vttpi.com:8443/33483749121768/187028127683748/126
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://content.osn.com/bob/745x419/hekayat.jpg" group-title="OSN & BEIN"OSN ART Hikayat 1
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://content.osn.com/bob/745x419/hekayat.jpg" group-title="OSN & BEIN",OSN ART Hikayat 1
 https://vt.vttpi.com:8443/33483749121768/187028127683748/91
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://content.osn.com/bob/745x419/hk2745x419_20200129095549.jpg" group-title="OSN & BEIN"OSN ART Hikayat 2
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://content.osn.com/bob/745x419/hk2745x419_20200129095549.jpg" group-title="OSN & BEIN",OSN ART Hikayat 2
 https://vt.vttpi.com:8443/33483749121768/187028127683748/127
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://www.osn.com/osn/media/OSNMedia/Images/2019/osn-logos/NOW.png" group-title="OSN & BEIN"OSN Music
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://www.osn.com/osn/media/OSNMedia/Images/2019/osn-logos/NOW.png" group-title="OSN & BEIN",OSN Music
 https://vt.vttpi.com:8443/33483749121768/187028127683748/128
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://content.osn.com/bob/745x419/FAN.jpg" group-title="OSN & BEIN"OSN Fann
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://content.osn.com/bob/745x419/FAN.jpg" group-title="OSN & BEIN",OSN Fann
 https://vt.vttpi.com:8443/33483749121768/187028127683748/129
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://www.osn.com/osn/media/OSNMedia/Images/2020/landing-pages/mezze/OME.png" group-title="OSN & BEIN"OSN Mezze
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://www.osn.com/osn/media/OSNMedia/Images/2020/landing-pages/mezze/OME.png" group-title="OSN & BEIN",OSN Mezze
 https://vt.vttpi.com:8443/33483749121768/187028127683748/130
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://content.osn.com/bob/745x419/STM.jpg" group-title="OSN & BEIN"OSN Star Movies
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://content.osn.com/bob/745x419/STM.jpg" group-title="OSN & BEIN",OSN Star Movies
 https://vt.vttpi.com:8443/33483749121768/187028127683748/131
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1209_1.png" group-title="OSN & BEIN"OSN Movies
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1209_1.png" group-title="OSN & BEIN",OSN Movies
 https://vt.vttpi.com:8443/33483749121768/187028127683748/132
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title="OSN & BEIN"OSN Star world
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title="OSN & BEIN",OSN Star world
 https://vt.vttpi.com:8443/33483749121768/187028127683748/133
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1213_1.png" group-title="OSN & BEIN"OSN Movies First
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1213_1.png" group-title="OSN & BEIN",OSN Movies First
 https://vt.vttpi.com:8443/33483749121768/187028127683748/134
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1256_1.png" group-title="OSN & BEIN"OSN Series First
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1256_1.png" group-title="OSN & BEIN",OSN Series First
 https://vt.vttpi.com:8443/33483749121768/187028127683748/135
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg" group-title="OSN & BEIN"OSN WWE
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg" group-title="OSN & BEIN",OSN WWE
 https://vt.vttpi.com:8443/33483749121768/187028127683748/136
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://www.osn.com/osn/media/OSNMedia/Images/2019/osn-logos/SAF.png" group-title="OSN & BEIN"OSN AL Safwa
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://www.osn.com/osn/media/OSNMedia/Images/2019/osn-logos/SAF.png"group-title=",OSN & BEIN"OSN AL Safwa
 https://vt.vttpi.com:8443/33483749121768/187028127683748/137
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1214_1.png" group-title="OSN & BEIN"OSN Movies First +2
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1214_1.png" group-title="OSN & BEIN",OSN Movies First +2
 https://vt.vttpi.com:8443/33483749121768/187028127683748/138
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1344_1.png" group-title="OSN & BEIN"OSN Binge
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1344_1.png" group-title="OSN & BEIN",OSN Binge
 https://vt.vttpi.com:8443/33483749121768/187028127683748/121
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="OSN & BEIN"OSN Nat Geo Wild
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="OSN & BEIN",OSN Nat Geo Wild
 https://vt.vttpi.com:8443/33483749121768/187028127683748/139
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://content.osn.com/bob/745x419/SER.jpg" group-title="OSN & BEIN"OSN Mosalsalat 2
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://content.osn.com/bob/745x419/SER.jpg" group-title="OSN & BEIN",OSN Mosalsalat 2
 https://vt.vttpi.com:8443/33483749121768/187028127683748/140
-#EXTINF:-1 tvg-id="" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1229_1.png" group-title="OSN & BEIN"OSN Enigma HD
+#EXTINF:-1 tvg-id="AE" tvg-name="M88 OSN" tvg-logo="https://media.elcinema.com/tvguide/1229_1.png" group-title="OSN & BEIN",OSN Enigma HD
 https://vt.vttpi.com:8443/33483749121768/187028127683748/141
 
 --NEWS--
