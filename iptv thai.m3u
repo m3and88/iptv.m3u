@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Workpoint Creative TV" tvg-logo="33WorkpointCreativeTV" tvg-shift=-7 group-title="PSI IPTV",Workpoint Creative TV
+rtmp://122.155.180.129:1935/origin/_definst_/workpoint_360p
+#EXTINF:-1 tvg-id="" tvg-name="Workpoint Creative TV" tvg-logo="33WorkpointCreativeTV" tvg-shift=-7 group-title="PSI IPTV",Workpoint Creative TV
+rtmp://122.155.180.129:1935/origin/_definst_/workpoint_480p
+#EXTINF:-1 tvg-id="" tvg-name="BBTV CH 7" tvg-logo="bbtv ch 7" tvg-shift=-7 group-title="PSI IPTV",BBTV CH 7
+http://edge2.psitv.tv:1935/liveedge/308091128717_600/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBTV CH 7" tvg-logo="bbtv ch 7" tvg-shift=-7 group-title="PSI IPTV",BBTV CH 7
+http://edge9.psitv.tv:1935/liveedge/308091128717_600/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH3 SD" tvg-logo="3" tvg-shift=-7 group-title="PSI IPTV",CH3 SD
+http://edge2.psitv.tv:1935/liveedge/307947436081_600/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH3 SD" tvg-logo="3" tvg-shift=-7 group-title="IPTV",CH3 SD
+http://111.223.37.195:1935/thaitv3_OR/thaitv3_OR_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH 3 Family" tvg-logo="3" tvg-shift=-7 group-title="IPTV",CH 3 Family
+http://111.223.37.197:1935/thaitv3_FM/smil:thaitv3_FM.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH3 SD" tvg-logo="3" tvg-shift=-7 group-title="IPTV",CH3 SD
+http://111.223.37.197:1935/thaitv3_SD/smil:thaitv3_SD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="สถานีประชาชน" tvg-logo="" tvg-shift=-7 group-title="IPTV",24 TV สถานีประชาชน
+http://103.22.182.99:1935/flash2837/flash2837/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV5 HD1" tvg-logo="5" tvg-shift=-7 group-title="PSI IPTV",TV5 HD1
+http://edge2.psitv.tv:1935/liveedge/308661309596_600/playlist.m3u8/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBT" tvg-logo="12NBT" group-title="PSI IPTV",NBT
+http://edge2.psitv.tv:1935/liveedge/308806374084_600/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBT" tvg-logo="12NBT" group-title="PSI IPTV",NBT
+http://edge10.psitv.tv:1935/liveedge/308806374084_600/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 2" tvg-logo="108CH2" group-title="PSI IPTV",Channel 2
+http://edge2.psitv.tv:1935/liveedge/292277199037_600/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Modern 9" tvg-logo="40MCOTHD" group-title="PSI IPTV",Modern 9
+http://edge2.psitv.tv:1935/liveedge/307803302519_600/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PSI IPTV",Next Movie
+http://edge2.psitv.tv:1935/liveedge/307632181736_600/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PSI IPTV",Major Channel
+http://edge2.psitv.tv:1935/liveedge/307927307696_600/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MONO29" tvg-logo="" group-title="IPTV",MonoTV(soundtrack)
+http://solution01.stream.3bb.co.th:1935/MonoTV720/720p_en/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MONO29" tvg-logo="" group-title="IPTV",MonoTV(Thai)
+http://solution01.stream.3bb.co.th:1935/MonoTV720/720p_th/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",PoliceTV
+http://live.netdesignhost.com:1935/policetvlive/policetvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Super บันเทิง
+http://super.live14.com/stream/52f32edc0e1f5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ไทยทีวี
+http://rtmp.thaitv.co.th/live/thaitv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",GMM
+http://202.43.34.235:1935/GMM/s1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",INNNews
+http://stream.innnews.co.th:1935/live/innhigh2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thai PBS HD" tvg-logo="" group-title="IPTV",Thai PBS HD
+http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Travel Thai
+http://27.131.149.42:1935/travel/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",New TV
+http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
